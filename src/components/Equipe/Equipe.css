@@ -1,0 +1,10 @@
+.div-exibe{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+.div-body{
+    background-color: darkgray;
+}
