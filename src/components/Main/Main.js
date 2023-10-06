@@ -31,8 +31,8 @@ function Main() {
             c2="Altura: 122 metro, 400 pé Fabricante: SpaceX Função: voo suborbital, voo orbital, viagem interplanetária Locais de lançamento: Starbase Launch Site, Kennedy Space Center Launch Complex 39A Massa: 5 000 tonelada, 11 000 000 libra"
             a3="Programa Cruzeiro do Sul"
             b3={pcs}
-            c3="Altura: 19,7 m Carga útil para LEO: 380 kg (órbita de 750 km) Estágios: 4 Função: Lançador de satélites Lançamentos totais: 2 Locais de lançamento: Alcântara Massa: 50 000 kg"
-            />
+            c3="VLS-1 V02 foi o segundo voo do VLS-1 realizado no dia 11 de dezembro de 1999 a partir do Centro de Lançamento de Alcântara, tendo como objetivo o de colocar o microssatélite SACI-2 em órbita da Terra. O foguete foi destruído remotamente 3 minutos após o lançamento. O foguete, com 43 toneladas de combustível sólido, foi lançado no dia 11 de dezembro de 1999, as 16:40 (UTC-2), após dez minutos de atraso, com os quatro propulsores externos tendo funcionado corretamente, assim como os demais sistemas. Porém, foi remotamente destruído após 3m30s de missão devido ao segundo estágio não ter sido acionado. Os destroços caíram dentro da área interditada.
+            O anúncio do fracasso só veio após 1h20m. Segundo a versão oficial, o Brigadeiro Tiago Ribeiro, responsável pelo anúncio, teria passado mal devido à emoção após o acidente."/>
 
           
         </main>
